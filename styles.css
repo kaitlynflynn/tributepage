@@ -6,3 +6,16 @@ html,body{
     background-image: url("https://s3.amazonaws.com/spoonflower/public/design_thumbnails/0575/6726/rrrpaw_prints_shop_preview.jpg");
   }
  
+  #main{
+    margin:70px auto;
+    padding:5px;
+    border:0px solid;
+    border-radius:5px;
+    background:#eee;
+  }
+  img{
+    max-width: 100%; 
+    display: block; 
+    height: auto;
+    margin: auto;
+  }
