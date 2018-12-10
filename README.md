@@ -1,5 +1,5 @@
 # tributepage
-Tribute page to my pugs. 
+Tribute page to my two pugs, Comrade & Clementine. Follow them on their Instagram page to stay up to date with all their PNW Pug Adventures!  
 
 ## Built With
 For this application I built this entirely with the following:
